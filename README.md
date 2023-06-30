@@ -14,11 +14,11 @@ Before proceeding with the instructions, ensure that you have the following soft
 1. Clone the repository: 
 
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/monika-kh/LinkedIn_scrapping.git
     ```
 2. Change into the repository directory:
     ```sh
-    cd <repository_directory>
+    cd LinkedIn_scrapping
     ```
 3. Create a virtual environment:
     ```sh
