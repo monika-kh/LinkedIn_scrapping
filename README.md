@@ -40,8 +40,8 @@ Before proceeding with the instructions, ensure that you have the following soft
     ```sh
     pip install -r requirements.txt
     ```
-  This command installs the necessary Python packages specified in the requirements.txt file.
-6. Also install playwright in system.
+    This command installs the necessary Python packages specified in the requirements.txt file.
+6. Also install playwright in system:
     ```sh
     playwright install
     ```
