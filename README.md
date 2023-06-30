@@ -44,6 +44,6 @@ Before proceeding with the instructions, ensure that you have the following soft
 
 6. Run a Python command:
     ```
-    python test.py task.csv
+    python test_job.py task.csv
     ```
 
