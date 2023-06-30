@@ -29,21 +29,24 @@ Before proceeding with the instructions, ensure that you have the following soft
 4. Activate the virtual environment:
 
     - On Windows:
-      ```
+      ```sh
       venv\Scripts\activate
       ```
     - On macOS and Linux:
-      ```
+      ```sh
       source venv/bin/activate
       ```
 5. Install requirements:
-    ```
+    ```sh
     pip install -r requirements.txt
     ```
   This command installs the necessary Python packages specified in the requirements.txt file.
-
-6. Run a Python command:
+6. Also install playwright in system.
+    ```sh
+    playwright install
     ```
+7. Run a Python command:
+    ```sh
     python test_job.py task.csv
     ```
 
